@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyadharshini M!
 
-🎓 I'm a **First-Year Computer Science Engineering Student** at **Panimalar Engineering College**.  
+🎓 I'm a **Second-Year Computer Science Engineering Student** at **Panimalar Engineering College**.  
 💻 I’m currently learning **C programming** and building a strong foundation in coding.  
 🌱 Exploring the world of **technology and development**, step by step!  
 
